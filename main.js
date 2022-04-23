@@ -105,7 +105,7 @@ const calculateArea = (width, length) => {
 // Use your google-fu to research converting a number into a string
 // Invoke the function a couple of times with different arguments each time
 
-const num = (2, 4, 6);
+//const num = (2, 4, 6);
 //const str = num.toString() => {
   //return str;
 //}
@@ -168,8 +168,37 @@ const num = (2, 4, 6);
 
 // const text = 'the iron flask';
 // console.log(text.split('').reverse().toString(''))
+ 
+// 1. printGreeting
+// Write a function called printGreeting with a parameter name that 
+// returns a greeting with the argument interpolated into the greeting.
 
-const alpha = "abcde";
-    console.log(alpha.split('').reverse().toString())
+// const printGreeting = (name) => {
+//     console.log('Hello there, ' + name)
+// }
+// printGreeting('Ricky')
 
+// 2. reverseWordOrder
+// Write a function reverseWordOrder that accepts a single argument, a string. 
+// The function should return a string with the order of the words reversed. 
+// Don't worry about punctuation.
+
+
+
+
+
+
+// 1. What is the difference between a parameter and an argument?
+// Function parameters are the names listed in the function's definition. 
+// Function arguments are the real values passed to the function.
+// 2. Within a function, what is the difference between return and console.log?
+// console. log is the equivalent of print in other languages. return is used for 
+// returning values from a function.
+// 3. What are the implications of the ability of a function to return a value?
+// ?????????????????????????????????????????????????????????
+
+// const sumDigits = ('42') => {
+//     console.log(sumDigits.split())
+// }
+// sumDigits()
 
