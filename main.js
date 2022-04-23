@@ -106,6 +106,70 @@ const calculateArea = (width, length) => {
 // Invoke the function a couple of times with different arguments each time
 
 const num = (2, 4, 6);
-const str = num.toString() => {
-  return str;
-}
+//const str = num.toString() => {
+  //return str;
+//}
+//console.log()
+
+// let bonusPoints = 50
+
+// bonusPoints = bonusPoints + 50
+// console.log(bonusPoints)
+
+// bonusPoints = bonusPoints - 75
+// console.log(bonusPoints)
+
+// bonusPoints = bonusPoints + 45
+// console.log(bonusPoints)
+
+// function myName() {
+//     console.log(42)
+// }
+
+// myName()
+
+// let lap1 = 34
+// let lap2 = 33
+// let lap3 = 36
+
+// function totalTime() {
+//     let allOverTime = lap1 + lap2 + lap3
+//     console.log(allOverTime)
+// }
+// totalTime()
+
+// let lapsCompleted = 0
+
+// function increment() {
+//     lapsCompleted = lapsCompleted + 1
+// }
+// increment()
+// increment()
+// increment()
+
+// console.log(lapsCompleted)
+
+// const multiply = function(num1, num2) {
+// 	return num1 * num2;
+// }
+// console.log(multiply(multiply(2, 3), multiply(9, 4)))
+
+// const message = "hello there";
+
+// console.log(message.toLocaleUpperCase())
+// ^^^^^ .toUpper odoes not work on arrays
+
+//  const letters = ['a', 'b', 'c', 'd'];
+//  console.log(letters.join(''));
+// ^^^^^^^ .join odoes not work on strings
+
+// const str = 'doodly doo';
+// console.log(str.toLocaleUpperCase())
+
+// const text = 'the iron flask';
+// console.log(text.split('').reverse().toString(''))
+
+const alpha = "abcde";
+    console.log(alpha.split('').reverse().toString())
+
+
